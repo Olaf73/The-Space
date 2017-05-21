@@ -1,0 +1,12 @@
+body {
+  background-color: gray;
+}
+.main {
+  padding-top: 25%;
+  padding-left: 20%;
+  padding-bottom: 25%;
+}
+form{
+  background-color: white;
+  background-position: center;
+}
