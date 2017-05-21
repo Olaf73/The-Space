@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8"/>
+		<title>The Space.net-logo</title>
+	</head>
+	<body>	
+		<svg height="250" width="250">
+			<path d="M98 7 L5 226 190 226 Z" style="fill:red;stroke:black;stroke-width:7.5"/>
+			<path d="M113 0 L210 229 215 229 118 0 Z" style="fill:black;stroke:black;stroke-width:1"/>
+			<path d="M55 100 L160 155 155 145 60 95 Z" style="fill:black;stroke:black;stroke-width:1"/>
+		</svg>
+	</body>
+</html>
